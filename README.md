@@ -1,5 +1,5 @@
 Predicting Satisfaction of Airline Passengers with Decision Tree & Random Forest Classification.
-The dataset used in this model is "Airline Passenger Satisfaction" from kaggle.
+The dataset used in this model is "Airline Passenger Satisfaction" from kaggle.<br>
 
 ![image](https://user-images.githubusercontent.com/72664379/183853302-652caa80-f3e7-4e9a-afc0-1973a80e607b.png)
 This is a pie chart showing the distribution of satisfied vs neutral_dissatisfied passengers.
