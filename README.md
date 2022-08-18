@@ -55,3 +55,10 @@ Accuracies achieved:
     </ul> 
   </li>
 </ul>
+
+<h3>Conclusions</h3>
+<ul>
+<li>We can conclude that the independent feature "Online Boarding" has the greatest significance in predicting the passenger satisfaction.</li>
+<li>"In-flight Wifi Service", "Type of Travel", "Class" also play efficient role in the prediction.</li>
+<li>"Gender" of the passenger has the least significance in the prediction.</li>
+</ul>
