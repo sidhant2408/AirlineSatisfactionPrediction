@@ -15,12 +15,11 @@ Project Overview:<br>
       <li>Model preparation</li>
       <li>Model training</li>
       <li>Prediction and testing</li>
-    </ul>
+    </ul></li>
   <li>Plot for feature importance for each model is shown.</li>
 </ul>
-      
-    
-<br>    
+<br>
+ <br>    
     <br>
 
 ![image](https://user-images.githubusercontent.com/72664379/183853302-652caa80-f3e7-4e9a-afc0-1973a80e607b.png) <br>
@@ -40,3 +39,19 @@ This plot shows the significance of all the independent features in predicting t
 
 ![image](https://user-images.githubusercontent.com/72664379/183853563-18cb411f-2589-489b-9a64-a963f45937fe.png) <br>
 This plot shows the significance of all the independent features in predicting the satisfaction of a passenger for random forest classifier model. <br><br>
+<br>
+Accuracies achieved:
+<ul>
+  <li>Decision Tree Classifier:
+    <ul>
+      <li>Training: <b>100%</b></li>
+      <li>Testing: <b>94%</b></li>
+    </ul>
+  </li>
+  <li>Random Forest Classifier:
+    <ul>
+      <li>Training: <b>99%</b></li>
+      <li>Testing: <b>96%</b></li>
+    </ul> 
+  </li>
+</ul>
